@@ -20,3 +20,5 @@ OpenGL 1.1의 스펙을 거의 모두 테스트 가능하도록 만들었는데,
 
 Tizen SDK가 나가기 전에 Tizen용 이 샘플을 보게 되었는데, 원래의 취지와는 다른(잘 못 코딩된) 부분이 너무 많았음
 그래서 주말에 Tizen용으로 새로 만들어서 담당자에게 보내 준 것이 바로 이것.
+
+![screenshot-11](https://github.com/smgal/tizen23-sample-glescube11/blob/master/screenshot_11.jpg)
